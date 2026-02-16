@@ -6,14 +6,6 @@ I am a passionate developer focused on building impactful, scalable tech solutio
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaradBavdekar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Varad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaradBavdekar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🛠️ Technical Toolkit
 
 | Category | Tools & Technologies |
